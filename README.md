@@ -18,6 +18,7 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | [Itamar Turner-Trauring](https://twitter.com/itamarst/status/1267532365620023296) | Any Bail Fund | 2,000 USD |
 | [MartinLoofahKingTV](https://twitter.com/MartinLoofah/status/1267608540274782208) | [Black Lives Matter](https://blacklivesmatter.com/) | Unspecified |
 | [Mudge](https://twitter.com/dotMudge/status/1267617144470212613) | [Black Lives Matter](https://blacklivesmatter.com/) and [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) | 4,000 USD |
+| [Hayg Astourian](https://twitter.com/haygast/status/1267617398841982976) | [Black Lives Matter](https://blacklivesmatter.com/) and [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) | 2,000 USD |
 | [Nathan Reed](https://twitter.com/Reedbeta/status/1267618374353219585) | Various Bail Funds | 1,000 USD |
 | [Paula Pant](https://twitter.com/AffordAnything/status/1267573966991843328) | [The Committee to Protect Journalists](https://cpj.org/), [Atlanta Community Food Bank](http://www.acfb.org/), and [Children's Development Academy](https://cdakids.org/) | 3,000 USD |
 | [Ramit Sethi](https://twitter.com/ramit/status/1267477751818223622) | [American Civil Liberties Union](https://www.aclu.org/) | 10,000 USD |
@@ -26,3 +27,4 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | Source | Public? | Beneficiaries | Up To |
 |:------ |:-------:|:------------- |:----- |
 | [Nicole VandeBoom](https://twitter.com/NVandeboom/status/1267626797006565376) | :x: Employees Only | [Equal Justice Initiative](https://eji.org/) | 40,000 USD |
+| [Spotify (per The Verge)](https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest#WRCESy) | :x: Employees Only | "organizations fighting racism and injustice" | Unspecified |
