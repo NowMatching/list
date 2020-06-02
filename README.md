@@ -33,6 +33,7 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | [Apple (via Fortune)](https://fortune.com/2020/05/31/tim-cook-apple-george-floyd-protest-memo/#freestar-instream-content) | :x: Employees Only | Various Organizations | 2x match, unspecified cap |
 | [Nicole VandeBoom](https://twitter.com/NVandeboom/status/1267626797006565376) | :x: Employees Only | [Equal Justice Initiative](https://eji.org/) | 10x match up to 40,000 USD |
 | [Spotify (via The Verge)](https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest#WRCESy) | :x: Employees Only | "organizations fighting racism and injustice" | Unspecified |
+| [TargetCW](https://www.formstack.com/forms/?1005417-bZyMjQgd2q) | :x: Employees Only | "all verified 501(c)(3) nonprofit organizations" | 5,000 USD per employee |
 
 # Past campaigns (A-Z)
 | Source | Beneficiaries | Amount Matched |
