@@ -32,3 +32,9 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | [Apple (via Fortune)](https://fortune.com/2020/05/31/tim-cook-apple-george-floyd-protest-memo/#freestar-instream-content) | :x: Employees Only | Various Organizations | 2x match, unspecified cap |
 | [Nicole VandeBoom](https://twitter.com/NVandeboom/status/1267626797006565376) | :x: Employees Only | [Equal Justice Initiative](https://eji.org/) | 10x match up to 40,000 USD |
 | [Spotify (via The Verge)](https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest#WRCESy) | :x: Employees Only | "organizations fighting racism and injustice" | Unspecified |
+
+# Past campaigns
+
+| Source | Beneficiaries | Amount Matched |
+| :----  | :-----        | :------ |
+| [Sable Valley record label](https://twitter.com/RLGRIME/status/1266947149033385984) | [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) | 16,411 USD |
