@@ -37,7 +37,6 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | [Ramit Sethi](https://twitter.com/ramit/status/1267477751818223622) | [American Civil Liberties Union](https://www.aclu.org/) | 10,000 USD |
 | [Sarah](https://twitter.com/fablednet/status/1268151721601236996) | [The Bail Project](https://bailproject.org/), [American Civil Liberties Union](https://www.aclu.org/), and [NAACP Legal Defense Fund](https://www.naacpldf.org/) | 1,500 USD |
 | [Silas Sao](https://twitter.com/silassao/status/1267937197736341505) | "organizations that support the progression of BLM or BIPOC causes" | 1,500 USD |
-| [SixationTV](https://twitter.com/SixationTV/status/1267953916412657666) | [The Bail Project](https://bailproject.org/) | 1,000 USD |
 | [Ted M. Young](https://twitter.com/jitterted/status/1268003371551567877) | [Anti Police Terror Project](https://www.antipoliceterrorproject.org/) and [Campaign Zero](https://www.joincampaignzero.org/) | 500 USD |
 | [Tyler Willis](https://twitter.com/tylerwillis/status/1268063175892582400) | [Campaign Zero](https://www.joincampaignzero.org/), [The Bail Project](https://bailproject.org/), and [Vote.org](https://www.vote.org/) | 1,000 USD |
 | [William Barton](https://twitter.com/Amnesiac_HS/status/1267998136125009920) | Various Organizations | 5,000 USD |
@@ -57,3 +56,4 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | Source | Beneficiaries | Amount Matched |
 | :----- | :------------ | :------------- |
 | [Sable Valley record label](https://twitter.com/RLGRIME/status/1266947149033385984) | [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) | 16,411 USD |
+| [SixationTV](https://twitter.com/SixationTV/status/1267953916412657666) | [The Bail Project](https://bailproject.org/) | 1,000 USD |
