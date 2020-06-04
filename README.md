@@ -19,6 +19,7 @@ If you would like to add or remove an entry, please [submit a ticket](https://gi
 | [Andrew Keating](https://twitter.com/andrewzk/status/1267794649172844544) | [NAACP Legal Defense Fund](https://www.naacpldf.org/), [The Bail Project](https://bailproject.org/), and [American Civil Liberties Union](https://www.aclu.org/) | 1,000 USD |
 | [Avidan Ross](https://twitter.com/AvidanRoss/status/1267674998887477250) | [Equal Justice Initiative](https://eji.org/) and [Center for Youth Wellness SF](https://twitter.com/CYWSanFrancisco) | 10,000 USD |
 | [Chloe Rose](https://twitter.com/chloerosewrites/status/1267938670549532673) | "bail funds, BLMs, legal aid, or action groups working for justice" | 500 USD |
+| [Corey Haines](https://twitter.com/coreyhaines/status/1267909274413477888) | [The Bail Project](https://bailproject.org/) | 600 USD |
 | [D6](https://twitter.com/RollD6ToPorn/status/1267953859336560640) | "orgs supporting Black Lives" | 1,000 USD per person, unspecified cap |
 | [Geneviève Godin](https://twitter.com/genevievegdn/status/1268107854835318785) | [National Bail Out](https://nationalbailout.org) and [Black Lives Matter](https://blacklivesmatter.com/) | 1,000 USD |
 | [Hayg Astourian](https://twitter.com/haygast/status/1267617398841982976) | [Black Lives Matter](https://blacklivesmatter.com/) and [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) | 2,000 USD |
